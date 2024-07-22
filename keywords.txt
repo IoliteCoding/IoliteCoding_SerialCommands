@@ -1,0 +1,5 @@
+SerialCommands  KEYWORD1
+init    KEYWORD2
+begin   KEYWORD2
+setCommand  KEYWORD2
+addCommand  KEYWORD2
